@@ -1,4 +1,4 @@
 hapis-resolusi
   - a
   - b
-  - Tambahan 1
+  - Tambahan 2
